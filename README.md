@@ -1,7 +1,8 @@
 <!-- Animated typing banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=61DAFB&background=00000000&width=300&lines=Frontend+Engineer;React+Expert;Tech+Mentor;Sr.+Software+Engineer" alt="Irfan Khan • Frontend Engineer • React Expert • Tech Mentor" />
-</p>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=61DAFB&background=00000000&center=true&vCenter=true&lines=Frontend+Engineer;React+Expert;Tech+Mentor;Sr.+Software+Engineer" alt="Irfan Khan • Frontend Engineer • React Expert • Tech Mentor" />
+</div>
 
 # Hi there 👋, I’m Irfan Khan  
 
