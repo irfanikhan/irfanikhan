@@ -6,11 +6,7 @@
 
 # Hi there 👋, I’m Irfan Khan  
 
-![Profile Views](https://komarev.com/ghpvc/?username=irfanikhan&style=flat-square&color=blue)  
-[![GitHub followers](https://img.shields.io/github/followers/irfanikhan?label=Followers&style=flat-square)](https://github.com/irfanikhan?tab=followers)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanikhan)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://irfanfolio.vercel.app)  
-[![Email Badge](https://img.shields.io/badge/Email-irfanfordev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:irfanfordev@gmail.com)  
+![Profile Views](https://komarev.com/ghpvc/?username=irfanikhan&style=flat-square&color=blue)  [![GitHub followers](https://img.shields.io/github/followers/irfanikhan?label=Followers&style=flat-square)](https://github.com/irfanikhan?tab=followers) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanikhan) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://irfanfolio.vercel.app) [![Email Badge](https://img.shields.io/badge/Email-irfanfordev%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:irfanfordev@gmail.com)  
 
 🚀 **Senior Software Engineer | Frontend Specialist | Tech Explorer**  
 
